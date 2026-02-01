@@ -15,7 +15,6 @@ body {
   background-image: url("images/dark.png");
   background-size: cover;
   background-position: center;
-  height: 100px;
+  width: 100%;
   border-radius: 12px;
-  margin: 0;
 }

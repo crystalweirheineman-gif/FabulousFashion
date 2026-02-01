@@ -7,4 +7,24 @@ p {
   line-height: 1.6;
   text-align: left;
 }
+body {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  text-align: left;
+  line-height: 1.6;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
 

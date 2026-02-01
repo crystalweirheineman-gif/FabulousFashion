@@ -28,3 +28,16 @@ img {
   height: auto;
 }
 
+body {
+  background-color: pink;   /* side color */
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.page {
+  max-width: 900px;
+  margin: 40px auto;
+  background-color: white;   /* main content area */
+  padding: 30px;
+  border-radius: 12px;
+}

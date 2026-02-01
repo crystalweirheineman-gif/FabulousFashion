@@ -1,3 +1,6 @@
+body { background: lime; }
+.hero { background: red; height: 300px; }
+
 body {
   background-image: url("images/light.png");
   background-size: cover;

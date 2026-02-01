@@ -15,4 +15,7 @@ body {
   height: auto;
 }
 
-h1 {font-family: goudy-old-style;}
+h1 
+font-family: "Goudy Old Style", Garamond, serif;
+  color: aliceblue;
+}

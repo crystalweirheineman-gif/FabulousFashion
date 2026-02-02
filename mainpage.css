@@ -31,3 +31,8 @@ font-family: "Goudy Old Style", Garamond, serif;
 p {
   font-size: 20px;
 }
+  @media (max-width: 600px) {.page {
+    margin: 0;
+    border-radius: 0;
+    padding:12px;
+  }
